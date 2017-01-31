@@ -13,4 +13,5 @@
 2. [High Cohesion and Low Coupling](https://thebojan.ninja/2015/04/08/high-cohesion-loose-coupling/)
 3. [What is Object Oriented Design](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
 4. [A Pragmatic Quick Reference](https://blog.codinghorror.com/a-pragmatic-quick-reference/)
+5. [SOLID](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
