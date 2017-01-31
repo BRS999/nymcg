@@ -5,6 +5,7 @@
 3. When is polymorphism useful? What does it help us to describe?
 4. Why might you want to use abstraction?
 5. When should you not use inheritance?
+6. What is SOLID? And why is it important?
 
 ## Resources
 
