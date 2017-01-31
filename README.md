@@ -3,9 +3,11 @@ A Community Sourced List of C# Learning Resources
 
 Pull requests are welcomed.
 
-## Learning to Code
+## Learning How to Learn
 
 1. [Learnable Programming](http://worrydream.com/LearnableProgramming/) - Read about high level concepts and how to visualize programming
+2. [Inquery-based Learning](https://elearningindustry.com/inquiry-based-learning-model)
+3. [11 Ways Finland’s Education System Shows Us that “Less is More”](https://fillingmymap.com/2015/04/15/11-ways-finlands-education-system-shows-us-that-less-is-more/)
 
 ## Courses
 
