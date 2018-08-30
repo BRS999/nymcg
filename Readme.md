@@ -3,13 +3,11 @@ A Community Sourced List of C# Learning Resources
 
 Pull requests are welcomed.
 
-[![Slack Status](https://microsoft-community.azurewebsites.net//badge.svg)](https://microsoft-community.azurewebsites.net/)
-
 ## Learning How to Learn
 
 1. [Learnable Programming](http://worrydream.com/LearnableProgramming/) - Read about high level concepts and how to visualize programming
 2. [Inquery-based Learning](https://elearningindustry.com/inquiry-based-learning-model)
-3. [11 Ways Finlandís Education System Shows Us that ìLess is Moreî](https://fillingmymap.com/2015/04/15/11-ways-finlands-education-system-shows-us-that-less-is-more/)
+3. [11 Ways Finland‚Äôs Education System Shows Us that ‚ÄúLess is More‚Äù](https://fillingmymap.com/2015/04/15/11-ways-finlands-education-system-shows-us-that-less-is-more/)
 
 ## Courses
 
@@ -63,5 +61,5 @@ Pull requests are welcomed.
 
 ## Azure
 
-1. [Azure in Plain English] (https://www.expeditedssl.com/azure-in-plain-english?utm_source=csharpdigest&utm_medium=email&utm_campaign=featured) - A list of Azure vs AWS services
-2. [$300 Credit for Azure] (https://blogs.msdn.microsoft.com/visualstudio/2016/02/03/free-visual-studio-dev-essentials-program-feb-2016/) - Free stuff for engineers!
+1. [Azure in Plain English](https://www.expeditedssl.com/azure-in-plain-english?utm_source=csharpdigest&utm_medium=email&utm_campaign=featured) - A list of Azure vs AWS services
+2. [$300 Credit for Azure](https://blogs.msdn.microsoft.com/visualstudio/2016/02/03/free-visual-studio-dev-essentials-program-feb-2016/) - Free stuff for engineers!
